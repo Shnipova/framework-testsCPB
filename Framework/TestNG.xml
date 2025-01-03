@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CPBStage">
+    <listeners>
+        <listener class-name="Stage.utilities.Reporting"/>
+    </listeners>
+    <test name="CPBStage Testing">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="Stage.testCases.CPB15"/>
+            <class name="Stage.testCases.CloningProducts49"/>
+        </classes>
+    </test>
+</suite>

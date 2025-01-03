@@ -1,0 +1,84 @@
+2024-12-11 18:57:01,482 - CPBStage -INFO - open staging site
+2024-12-12 16:35:47,943 - CPBStage -INFO - open staging site
+2024-12-12 17:11:13,429 - CPB Stage -INFO - open staging site
+2024-12-12 17:13:13,313 - CPB Stage -INFO - open staging site
+2024-12-12 17:22:13,634 - CPB Stage -INFO - open staging site
+2024-12-12 17:22:34,738 - CPB Stage -INFO - open staging site
+2024-12-12 17:22:44,568 - CPB Stage -INFO - open staging site
+2024-12-12 17:34:31,089 - CPB Stage -INFO - open stage site
+2024-12-12 17:37:17,658 - CPB Stage -INFO - open stage site
+2024-12-12 17:38:37,835 - CPB Stage -INFO - open stage site
+2024-12-12 18:18:44,699 - CPB Stage -INFO - open stage site
+2024-12-12 18:18:44,734 - CPB Stage -INFO - switch to iFrame
+2024-12-12 18:18:49,134 - CPB Stage -INFO - click Edit
+2024-12-12 18:18:49,177 - CPB Stage -INFO - click Admin Mode
+2024-12-12 18:18:58,418 - CPB Stage -INFO - click on New Custom Option
+2024-12-12 18:18:59,058 - CPB Stage -INFO - test failed
+2024-12-12 18:20:43,346 - CPB Stage -INFO - open stage site
+2024-12-12 18:20:43,384 - CPB Stage -INFO - switch to iFrame
+2024-12-12 18:20:47,865 - CPB Stage -INFO - click Edit
+2024-12-12 18:20:47,915 - CPB Stage -INFO - click Admin Mode
+2024-12-12 18:20:50,547 - CPB Stage -INFO - click on New Custom Option
+2024-12-12 18:20:51,046 - CPB Stage -INFO - test failed
+2024-12-12 18:24:18,038 - CPB Stage -INFO - open stage site
+2024-12-12 18:24:18,075 - CPB Stage -INFO - switch to iFrame
+2024-12-12 18:24:21,303 - CPB Stage -INFO - click Edit
+2024-12-12 18:27:00,983 - CPB Stage -INFO - open stage site
+2024-12-12 18:27:01,021 - CPB Stage -INFO - switch to iFrame
+2024-12-12 18:27:06,005 - CPB Stage -INFO - click Edit
+2024-12-12 19:04:54,289 - CPB Stage -INFO - open stage site
+2024-12-12 19:04:54,329 - CPB Stage -INFO - switch to iFrame
+2024-12-12 19:04:59,204 - CPB Stage -INFO - click Edit
+2024-12-12 19:04:59,752 - CPB Stage -INFO - click Admin Mode
+2024-12-12 19:05:01,831 - CPB Stage -INFO - click on New Custom Option
+2024-12-12 19:05:02,299 - CPB Stage -INFO - test failed
+2024-12-12 19:05:46,516 - CPB Stage -INFO - open stage site
+2024-12-12 19:05:46,553 - CPB Stage -INFO - switch to iFrame
+2024-12-12 21:22:01,459 - CPB Stage -INFO - open stage site
+2024-12-12 21:22:01,497 - CPB Stage -INFO - switch to iFrame
+2024-12-12 21:22:06,116 - CPB Stage -INFO - click Edit
+2024-12-12 21:22:06,169 - CPB Stage -INFO - click Admin Mode
+2024-12-12 21:22:08,783 - CPB Stage -INFO - click on New Custom Option
+2024-12-12 21:22:09,255 - CPB Stage -INFO - test failed
+2024-12-13 17:18:46,834 - CPB Stage -INFO - open stage site
+2025-01-02 20:20:57,368 - CPB Stage -INFO - open stage site
+2025-01-02 20:21:29,167 - CPB Stage -INFO - open stage site
+2025-01-02 20:21:29,206 - CPB Stage -INFO - switch to iFrame
+2025-01-02 20:22:28,815 - CPB Stage -INFO - open stage site
+2025-01-02 20:22:28,853 - CPB Stage -INFO - switch to iFrame
+2025-01-02 20:22:33,417 - CPB Stage -INFO - click Edit
+2025-01-02 20:22:33,465 - CPB Stage -INFO - click Admin Mode
+2025-01-02 20:22:36,063 - CPB Stage -INFO - click on New Custom Option
+2025-01-02 20:22:36,595 - CPB Stage -INFO - test failed
+2025-01-02 22:18:42,062 - CPB Stage -INFO - open stage site
+2025-01-02 22:18:42,101 - CPB Stage -INFO - switch to iFrame
+2025-01-02 22:18:46,985 - CPB Stage -INFO - click Edit
+2025-01-02 22:18:47,564 - CPB Stage -INFO - click Admin Mode
+2025-01-02 22:18:49,665 - CPB Stage -INFO - click on New Custom Option
+2025-01-02 22:18:50,113 - CPB Stage -INFO - test failed
+2025-01-02 23:09:27,008 - CPB Stage -INFO - open stage site
+2025-01-02 23:09:27,060 - CPB Stage -INFO - switch to iFrame
+2025-01-02 23:09:30,260 - CPB Stage -INFO - click Clone
+2025-01-02 23:36:34,443 - CPB Stage -INFO - open stage site
+2025-01-02 23:36:34,487 - CPB Stage -INFO - switch to iFrame
+2025-01-02 23:36:38,210 - CPB Stage -INFO - click Clone
+2025-01-02 23:36:49,678 - CPB Stage -INFO - click Delete
+2025-01-02 23:38:05,341 - CPB Stage -INFO - open stage site
+2025-01-02 23:38:05,387 - CPB Stage -INFO - switch to iFrame
+2025-01-02 23:38:09,116 - CPB Stage -INFO - click Clone
+2025-01-02 23:38:14,959 - CPB Stage -INFO - click Delete
+2025-01-03 00:39:00,707 - CPB Stage -INFO - open stage site
+2025-01-03 00:39:00,749 - CPB Stage -INFO - switch to iFrame
+2025-01-03 00:39:04,986 - CPB Stage -INFO - click Clone
+2025-01-03 00:39:10,786 - CPB Stage -INFO - click Delete
+2025-01-03 00:39:10,845 - CPB Stage -INFO - yes clicked
+2025-01-03 00:39:56,188 - CPB Stage -INFO - open stage site
+2025-01-03 00:39:56,231 - CPB Stage -INFO - switch to iFrame
+2025-01-03 00:39:59,441 - CPB Stage -INFO - click Clone
+2025-01-03 00:40:05,202 - CPB Stage -INFO - click Delete
+2025-01-03 00:40:08,293 - CPB Stage -INFO - yes clicked
+2025-01-03 00:42:01,819 - CPB Stage -INFO - open stage site
+2025-01-03 00:42:01,854 - CPB Stage -INFO - switch to iFrame
+2025-01-03 00:42:05,090 - CPB Stage -INFO - click Clone
+2025-01-03 00:42:16,440 - CPB Stage -INFO - click Delete
+2025-01-03 00:42:19,536 - CPB Stage -INFO - yes clicked
