@@ -82,3 +82,1697 @@
 2025-01-03 00:42:05,090 [main] INFO CPB Stage - click Clone
 2025-01-03 00:42:16,440 [main] INFO CPB Stage - click Delete
 2025-01-03 00:42:19,536 [main] INFO CPB Stage - yes clicked
+2025-01-03 02:03:50,935 [main] INFO CPB Stage - open stage site
+2025-01-03 02:03:50,976 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 02:03:56,094 [main] INFO CPB Stage - click Edit
+2025-01-03 02:03:56,150 [main] INFO CPB Stage - click Admin Mode
+2025-01-03 02:03:58,778 [main] INFO CPB Stage - click on New Custom Option
+2025-01-03 02:03:58,778 [main] INFO CPB Stage - adding changes testing
+2025-01-03 02:03:59,238 [main] INFO CPB Stage - test failed
+2025-01-03 02:04:03,394 [main] INFO CPB Stage - open stage site
+2025-01-03 02:04:03,418 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 02:04:06,634 [main] INFO CPB Stage - click Clone
+2025-01-03 02:04:17,525 [main] INFO CPB Stage - click Delete
+2025-01-03 02:04:20,593 [main] INFO CPB Stage - yes clicked
+2025-01-03 03:12:20,200 [main] INFO CPB Stage - open stage site
+2025-01-03 03:12:20,240 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:16:55,684 [main] INFO CPB Stage - open stage site
+2025-01-03 03:16:55,722 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:25:14,542 [main] INFO CPB Stage - open stage site
+2025-01-03 03:25:14,577 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:25:18,586 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 03:28:33,122 [main] INFO CPB Stage - open stage site
+2025-01-03 03:28:33,158 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:28:37,162 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 03:43:25,601 [main] INFO CPB Stage - open stage site
+2025-01-03 03:43:25,641 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:46:56,288 [main] INFO CPB Stage - open stage site
+2025-01-03 03:46:56,325 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:53:37,848 [main] INFO CPB Stage - open stage site
+2025-01-03 03:53:37,887 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:54:57,891 [main] INFO CPB Stage - open stage site
+2025-01-03 03:54:57,928 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:55:46,877 [main] INFO CPB Stage - open stage site
+2025-01-03 03:55:46,917 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:56:33,960 [main] INFO CPB Stage - open stage site
+2025-01-03 03:56:34,003 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 03:58:47,785 [main] INFO CPB Stage - open stage site
+2025-01-03 03:58:47,822 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:36:27,461 [main] INFO CPB Stage - open stage site
+2025-01-03 10:36:27,503 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:38:35,577 [main] INFO CPB Stage - open stage site
+2025-01-03 10:38:35,618 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:40:34,391 [main] INFO CPB Stage - open stage site
+2025-01-03 10:40:34,435 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:41:14,391 [main] INFO CPB Stage - open stage site
+2025-01-03 10:41:14,427 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:42:48,253 [main] INFO CPB Stage - open stage site
+2025-01-03 10:42:48,295 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:43:25,009 [main] INFO CPB Stage - open stage site
+2025-01-03 10:43:25,060 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:44:11,110 [main] INFO CPB Stage - open stage site
+2025-01-03 10:44:11,151 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:45:08,341 [main] INFO CPB Stage - open stage site
+2025-01-03 10:45:08,381 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:51:15,232 [main] INFO CPB Stage - open stage site
+2025-01-03 10:51:15,273 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:53:59,381 [main] INFO CPB Stage - open stage site
+2025-01-03 10:53:59,422 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 10:56:23,130 [main] INFO CPB Stage - open stage site
+2025-01-03 10:56:23,169 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:04:03,035 [main] INFO CPB Stage - open stage site
+2025-01-03 13:04:03,071 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:07:27,532 [main] INFO CPB Stage - open stage site
+2025-01-03 13:07:27,565 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:07:32,668 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 13:07:36,858 [main] INFO CPB Stage - particular product was deleted
+2025-01-03 13:08:39,679 [main] INFO CPB Stage - open stage site
+2025-01-03 13:08:39,721 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:08:44,837 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 13:08:52,524 [main] INFO CPB Stage - particular product was deleted
+2025-01-03 13:09:34,384 [main] INFO CPB Stage - open stage site
+2025-01-03 13:09:34,421 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:09:39,518 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 13:10:05,070 [main] INFO CPB Stage - particular product was deleted
+2025-01-03 13:11:33,296 [main] INFO CPB Stage - open stage site
+2025-01-03 13:11:33,340 [main] INFO CPB Stage - switch to iFrame
+2025-01-03 13:11:38,453 [main] INFO CPB Stage - particular product was cloned
+2025-01-03 13:11:44,556 [main] INFO CPB Stage - particular product was deleted
+2025-01-04 00:36:34,582 [main] INFO CPB Stage - open stage site
+2025-01-04 00:36:34,619 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:36:39,750 [main] INFO CPB Stage - particular product was cloned
+2025-01-04 00:36:45,859 [main] INFO CPB Stage - particular product was deleted
+2025-01-04 00:37:27,336 [main] INFO CPB Stage - open stage site
+2025-01-04 00:37:27,376 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:37:32,497 [main] INFO CPB Stage - particular product was cloned
+2025-01-04 00:37:38,625 [main] INFO CPB Stage - particular product was deleted
+2025-01-04 00:38:34,998 [main] INFO CPB Stage - open stage site
+2025-01-04 00:38:35,039 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:38:40,148 [main] INFO CPB Stage - particular product was cloned
+2025-01-04 00:45:15,794 [main] INFO CPB Stage - open stage site
+2025-01-04 00:45:15,836 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:52:44,282 [main] INFO CPB Stage - open stage site
+2025-01-04 00:52:44,311 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:52:44,382 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 00:53:36,957 [main] INFO CPB Stage - open stage site
+2025-01-04 00:53:37,005 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 00:53:37,080 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:17:33,671 [main] INFO CPB Stage - open stage site
+2025-01-04 01:17:33,701 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:17:33,760 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:23:26,206 [main] INFO CPB Stage - open stage site
+2025-01-04 01:23:26,245 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:23:26,343 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:23:29,451 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:23:59,227 [main] INFO CPB Stage - open stage site
+2025-01-04 01:23:59,265 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:24:04,387 [main] INFO CPB Stage - particular product was cloned
+2025-01-04 01:24:10,519 [main] INFO CPB Stage - particular product was deleted
+2025-01-04 01:25:28,996 [main] INFO CPB Stage - open stage site
+2025-01-04 01:25:29,031 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:25:29,131 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:26:24,560 [main] INFO CPB Stage - open stage site
+2025-01-04 01:26:24,598 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:26:24,700 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:26:30,814 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:40:24,152 [main] INFO CPB Stage - open stage site
+2025-01-04 01:40:24,190 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:40:24,293 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:40:30,404 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:40:30,496 [main] INFO CPB Stage - Field was clicked
+2025-01-04 01:43:54,603 [main] INFO CPB Stage - open stage site
+2025-01-04 01:43:54,640 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:43:54,739 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:44:00,850 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:44:00,919 [main] INFO CPB Stage - Field was clicked
+2025-01-04 01:52:54,851 [main] INFO CPB Stage - open stage site
+2025-01-04 01:52:54,898 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:52:55,000 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:53:01,113 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:54:29,574 [main] INFO CPB Stage - open stage site
+2025-01-04 01:54:29,613 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:54:29,716 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:54:35,828 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:55:56,609 [main] INFO CPB Stage - open stage site
+2025-01-04 01:55:57,531 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:55:57,634 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:56:03,744 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 01:58:07,883 [main] INFO CPB Stage - open stage site
+2025-01-04 01:58:07,917 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 01:58:08,020 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 01:58:14,131 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:01:17,115 [main] INFO CPB Stage - open stage site
+2025-01-04 02:01:17,153 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:01:17,258 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:01:23,369 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:02:44,457 [main] INFO CPB Stage - open stage site
+2025-01-04 02:02:44,495 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:02:44,596 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:02:50,705 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:11:13,468 [main] INFO CPB Stage - open stage site
+2025-01-04 02:11:13,503 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:11:13,607 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:11:19,720 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:12:23,594 [main] INFO CPB Stage - open stage site
+2025-01-04 02:12:23,628 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:12:23,729 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:12:29,842 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:12:29,923 [main] INFO CPB Stage - Field was clicked
+2025-01-04 02:13:01,851 [main] INFO CPB Stage - open stage site
+2025-01-04 02:13:01,887 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:13:01,990 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:13:08,097 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:13:08,156 [main] INFO CPB Stage - Field was clicked
+2025-01-04 02:24:34,191 [main] INFO CPB Stage - open stage site
+2025-01-04 02:24:34,228 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:24:34,329 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:24:40,444 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:24:40,993 [main] INFO CPB Stage - file uploded
+2025-01-04 02:25:07,889 [main] INFO CPB Stage - open stage site
+2025-01-04 02:25:07,927 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:25:08,029 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:25:14,143 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:25:14,560 [main] INFO CPB Stage - file uploded
+2025-01-04 02:26:05,530 [main] INFO CPB Stage - open stage site
+2025-01-04 02:26:05,567 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:26:05,666 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:26:11,777 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:26:12,173 [main] INFO CPB Stage - file uploded
+2025-01-04 02:27:11,032 [main] INFO CPB Stage - open stage site
+2025-01-04 02:27:11,071 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 02:27:11,175 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 02:27:17,287 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 02:27:17,676 [main] INFO CPB Stage - file uploded
+2025-01-04 11:54:24,072 [main] INFO CPB Stage - open stage site
+2025-01-04 11:54:24,108 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 11:54:24,213 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 11:54:30,330 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 11:54:30,720 [main] INFO CPB Stage - file uploded
+2025-01-04 12:02:43,754 [main] INFO CPB Stage - open stage site
+2025-01-04 12:02:43,791 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:02:43,889 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:03:19,393 [main] INFO CPB Stage - open stage site
+2025-01-04 12:03:19,430 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:03:19,539 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:03:25,645 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:03:26,046 [main] INFO CPB Stage - file uploded
+2025-01-04 12:10:22,973 [main] INFO CPB Stage - open stage site
+2025-01-04 12:10:23,011 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:10:23,113 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:10:29,226 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:13:27,336 [main] INFO CPB Stage - open stage site
+2025-01-04 12:13:27,375 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:13:27,475 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:13:33,591 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:13:33,646 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:13:39,742 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 12:40:59,694 [main] INFO CPB Stage - open stage site
+2025-01-04 12:40:59,741 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:40:59,846 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:41:05,955 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:41:06,007 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:41:12,107 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 12:41:17,204 [main] INFO CPB Stage - alert is checked
+2025-01-04 12:42:31,816 [main] INFO CPB Stage - open stage site
+2025-01-04 12:42:31,853 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:42:31,958 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:42:38,070 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:42:38,120 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:42:44,218 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 12:42:49,328 [main] INFO CPB Stage - alert is checked
+2025-01-04 12:47:47,883 [main] INFO CPB Stage - open stage site
+2025-01-04 12:47:47,921 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:47:48,025 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:47:54,135 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:47:54,177 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:48:00,274 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 12:51:29,271 [main] INFO CPB Stage - open stage site
+2025-01-04 12:51:29,303 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:51:29,404 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:51:35,512 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:51:35,542 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:51:41,645 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 12:52:56,769 [main] INFO CPB Stage - open stage site
+2025-01-04 12:52:56,807 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 12:52:56,912 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 12:53:03,023 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 12:53:03,086 [main] INFO CPB Stage - file uploaded
+2025-01-04 12:53:09,183 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:20:52,553 [main] INFO CPB Stage - open stage site
+2025-01-04 20:20:52,597 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:20:52,701 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:20:58,810 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:20:58,862 [main] INFO CPB Stage - file uploaded
+2025-01-04 20:21:04,963 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:33:37,466 [main] INFO CPB Stage - open stage site
+2025-01-04 20:33:37,505 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:33:37,610 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:33:43,718 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:33:43,771 [main] INFO CPB Stage - file uploaded
+2025-01-04 20:33:49,871 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:40:11,229 [main] INFO CPB Stage - open stage site
+2025-01-04 20:40:11,265 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:40:11,371 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:40:17,739 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:40:17,773 [main] INFO CPB Stage - file uploaded
+2025-01-04 20:40:23,872 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:42:09,284 [main] INFO CPB Stage - open stage site
+2025-01-04 20:42:09,326 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:42:09,426 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:42:15,540 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:42:15,567 [main] INFO CPB Stage - file uploaded
+2025-01-04 20:42:21,662 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:42:22,227 [main] INFO CPB Stage - alert is checked
+2025-01-04 20:46:21,211 [main] INFO CPB Stage - open stage site
+2025-01-04 20:46:21,247 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:46:21,350 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:46:27,463 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:47:39,334 [main] INFO CPB Stage - open stage site
+2025-01-04 20:47:39,369 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 20:47:39,471 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 20:47:45,581 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 20:47:45,620 [main] INFO CPB Stage - file uploaded
+2025-01-04 20:47:51,715 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 20:47:52,281 [main] INFO CPB Stage - alert is checked
+2025-01-04 23:49:37,425 [main] INFO CPB Stage - open stage site
+2025-01-04 23:49:37,464 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 23:49:37,565 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 23:49:43,678 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 23:49:43,710 [main] INFO CPB Stage - file uploaded
+2025-01-04 23:49:49,807 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 23:49:50,378 [main] INFO CPB Stage - alert is checked
+2025-01-04 23:57:44,318 [main] INFO CPB Stage - open stage site
+2025-01-04 23:57:44,363 [main] INFO CPB Stage - switch to iFrame
+2025-01-04 23:57:44,476 [main] INFO CPB Stage - Create new button was clicked
+2025-01-04 23:57:50,587 [main] INFO CPB Stage - Checkbox was checked
+2025-01-04 23:57:50,622 [main] INFO CPB Stage - file uploaded
+2025-01-04 23:57:56,722 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-04 23:57:57,284 [main] INFO CPB Stage - alert is checked
+2025-01-04 23:57:57,399 [main] INFO CPB Stage - title is created
+2025-01-05 00:10:49,711 [main] INFO CPB Stage - open stage site
+2025-01-05 00:10:49,751 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:10:49,856 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:10:55,967 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:10:56,016 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:11:02,115 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:11:02,686 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:11:02,797 [main] INFO CPB Stage - title is created
+2025-01-05 00:11:02,819 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:13:00,441 [main] INFO CPB Stage - open stage site
+2025-01-05 00:13:00,480 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:13:00,588 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:13:06,698 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:13:06,740 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:13:12,834 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:13:13,398 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:13:13,509 [main] INFO CPB Stage - title is created
+2025-01-05 00:13:30,131 [main] INFO CPB Stage - open stage site
+2025-01-05 00:13:30,168 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:13:30,271 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:13:36,380 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:13:36,411 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:13:42,511 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:13:43,072 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:13:43,183 [main] INFO CPB Stage - title is created
+2025-01-05 00:15:01,881 [main] INFO CPB Stage - open stage site
+2025-01-05 00:15:01,918 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:15:02,018 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:15:08,130 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:15:08,162 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:15:14,259 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:15:14,831 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:15:14,952 [main] INFO CPB Stage - title is created
+2025-01-05 00:15:14,969 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:28:22,975 [main] INFO CPB Stage - open stage site
+2025-01-05 00:28:23,015 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:28:23,117 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:28:29,230 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:28:29,267 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:28:35,364 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:28:35,928 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:28:36,052 [main] INFO CPB Stage - title is created
+2025-01-05 00:28:36,075 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:32:00,895 [main] INFO CPB Stage - open stage site
+2025-01-05 00:32:00,935 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:32:01,038 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:32:07,146 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:32:07,182 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:32:13,281 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:32:13,843 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:34:18,583 [main] INFO CPB Stage - open stage site
+2025-01-05 00:34:18,622 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:34:18,727 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:34:24,834 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:34:24,874 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:34:30,972 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:34:31,538 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:34:31,651 [main] INFO CPB Stage - title is created
+2025-01-05 00:34:31,677 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:44:32,192 [main] INFO CPB Stage - open stage site
+2025-01-05 00:44:32,235 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:44:32,338 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:44:38,447 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:44:38,479 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:44:44,577 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:44:45,143 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:44:45,269 [main] INFO CPB Stage - title is created
+2025-01-05 00:44:45,292 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:46:26,156 [main] INFO CPB Stage - open stage site
+2025-01-05 00:46:26,192 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:46:26,301 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:46:32,414 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:46:32,447 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:46:38,545 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:46:39,118 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:46:39,252 [main] INFO CPB Stage - title is created
+2025-01-05 00:46:39,282 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:53:25,175 [main] INFO CPB Stage - open stage site
+2025-01-05 00:53:25,214 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 00:53:25,318 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 00:53:31,432 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 00:53:31,476 [main] INFO CPB Stage - file uploaded
+2025-01-05 00:53:37,572 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 00:53:38,144 [main] INFO CPB Stage - alert is checked
+2025-01-05 00:53:38,268 [main] INFO CPB Stage - title is created
+2025-01-05 00:53:38,294 [main] INFO CPB Stage - image uploaded
+2025-01-05 00:53:41,403 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:01:17,933 [main] INFO CPB Stage - open stage site
+2025-01-05 01:01:17,972 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:01:18,074 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:01:24,185 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:01:24,216 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:01:30,307 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:01:30,879 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:01:31,009 [main] INFO CPB Stage - title is created
+2025-01-05 01:01:31,033 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:01:34,135 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:05:32,670 [main] INFO CPB Stage - open stage site
+2025-01-05 01:05:32,709 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:05:32,812 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:05:38,925 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:05:38,954 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:05:45,047 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:05:45,629 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:05:45,755 [main] INFO CPB Stage - title is created
+2025-01-05 01:05:45,779 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:05:48,880 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:07:12,951 [main] INFO CPB Stage - open stage site
+2025-01-05 01:07:12,990 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:07:13,088 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:07:19,204 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:07:19,237 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:07:25,332 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:07:25,899 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:07:26,033 [main] INFO CPB Stage - title is created
+2025-01-05 01:07:26,057 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:07:29,161 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:07:36,079 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:08:07,807 [main] INFO CPB Stage - open stage site
+2025-01-05 01:08:07,844 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:08:07,953 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:08:14,064 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:08:14,098 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:08:20,196 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:08:20,763 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:08:20,885 [main] INFO CPB Stage - title is created
+2025-01-05 01:08:20,911 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:08:24,031 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:08:30,610 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:16:32,647 [main] INFO CPB Stage - open stage site
+2025-01-05 01:16:32,688 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:16:32,793 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:17:17,559 [main] INFO CPB Stage - open stage site
+2025-01-05 01:17:17,597 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:17:17,697 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:17:23,808 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:17:23,842 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:17:29,934 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:17:30,521 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:17:30,640 [main] INFO CPB Stage - title is created
+2025-01-05 01:17:30,658 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:17:33,759 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:17:40,523 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:17:43,659 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 01:29:50,930 [main] INFO CPB Stage - open stage site
+2025-01-05 01:29:50,967 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:29:56,084 [main] INFO CPB Stage - particular product was cloned
+2025-01-05 01:30:02,232 [main] INFO CPB Stage - particular product was deleted
+2025-01-05 01:32:44,300 [main] INFO CPB Stage - open stage site
+2025-01-05 01:32:44,348 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:32:44,456 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:32:50,563 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:32:50,618 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:32:56,717 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:32:57,289 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:32:57,412 [main] INFO CPB Stage - title is created
+2025-01-05 01:32:57,436 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:33:00,534 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:33:14,788 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:33:17,948 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 01:33:21,430 [main] INFO CPB Stage - test failed
+2025-01-05 01:41:04,319 [main] INFO CPB Stage - open stage site
+2025-01-05 01:41:04,355 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:41:04,460 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:41:10,573 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:41:10,613 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:41:16,712 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:41:17,284 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:41:17,407 [main] INFO CPB Stage - title is created
+2025-01-05 01:41:17,432 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:41:20,535 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:41:27,918 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:41:31,087 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 01:43:08,206 [main] INFO CPB Stage - open stage site
+2025-01-05 01:43:08,248 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:43:08,349 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 01:43:14,462 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 01:43:14,489 [main] INFO CPB Stage - file uploaded
+2025-01-05 01:43:20,587 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 01:43:21,146 [main] INFO CPB Stage - alert is checked
+2025-01-05 01:43:21,271 [main] INFO CPB Stage - title is created
+2025-01-05 01:43:21,293 [main] INFO CPB Stage - image uploaded
+2025-01-05 01:43:24,394 [main] INFO CPB Stage - create button was clicked
+2025-01-05 01:43:31,363 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 01:43:34,500 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 01:53:44,309 [main] INFO CPB Stage - open stage site
+2025-01-05 01:53:44,345 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 01:53:44,446 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:00:26,150 [main] INFO CPB Stage - open stage site
+2025-01-05 02:00:26,191 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:00:26,293 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:00:29,454 [main] INFO CPB Stage - title was created
+2025-01-05 02:00:29,505 [main] INFO CPB Stage - description was created
+2025-01-05 02:05:12,656 [main] INFO CPB Stage - open stage site
+2025-01-05 02:05:12,692 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:05:12,791 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:05:15,929 [main] INFO CPB Stage - title was created
+2025-01-05 02:05:15,970 [main] INFO CPB Stage - description was created
+2025-01-05 02:05:15,997 [main] INFO CPB Stage - price was provided
+2025-01-05 02:05:16,018 [main] INFO CPB Stage - image uploaded
+2025-01-05 02:06:06,998 [main] INFO CPB Stage - open stage site
+2025-01-05 02:06:07,034 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:06:07,139 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:06:10,297 [main] INFO CPB Stage - title was created
+2025-01-05 02:06:10,345 [main] INFO CPB Stage - description was created
+2025-01-05 02:06:10,371 [main] INFO CPB Stage - price was provided
+2025-01-05 02:06:10,391 [main] INFO CPB Stage - image uploaded
+2025-01-05 02:06:13,470 [main] INFO CPB Stage - create button was clicked
+2025-01-05 02:06:47,672 [main] INFO CPB Stage - open stage site
+2025-01-05 02:06:47,709 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:06:52,192 [main] INFO CPB Stage - click Edit
+2025-01-05 02:06:52,239 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 02:06:54,872 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 02:06:55,457 [main] INFO CPB Stage - test failed
+2025-01-05 02:08:45,258 [main] INFO CPB Stage - open stage site
+2025-01-05 02:08:45,296 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:08:49,669 [main] INFO CPB Stage - click Edit
+2025-01-05 02:08:50,241 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 02:08:52,330 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 02:08:52,755 [main] INFO CPB Stage - Test failed
+2025-01-05 02:10:37,563 [main] INFO CPB Stage - open stage site
+2025-01-05 02:10:37,600 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:10:37,706 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:10:43,821 [main] INFO CPB Stage - Checkbox was checked
+2025-01-05 02:10:43,852 [main] INFO CPB Stage - file uploaded
+2025-01-05 02:10:49,950 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-05 02:10:50,523 [main] INFO CPB Stage - alert is checked
+2025-01-05 02:10:50,649 [main] INFO CPB Stage - title is created
+2025-01-05 02:10:50,666 [main] INFO CPB Stage - image uploaded
+2025-01-05 02:10:53,769 [main] INFO CPB Stage - create button was clicked
+2025-01-05 02:11:05,622 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 02:11:08,749 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 02:11:12,235 [main] INFO CPB Stage - Test failed
+2025-01-05 02:12:58,663 [main] INFO CPB Stage - open stage site
+2025-01-05 02:12:58,699 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:12:58,804 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:13:01,961 [main] INFO CPB Stage - title was created
+2025-01-05 02:13:02,009 [main] INFO CPB Stage - description was created
+2025-01-05 02:13:02,035 [main] INFO CPB Stage - price was provided
+2025-01-05 02:13:02,056 [main] INFO CPB Stage - image uploaded
+2025-01-05 02:13:05,143 [main] INFO CPB Stage - create button was clicked
+2025-01-05 02:15:23,058 [main] INFO CPB Stage - open stage site
+2025-01-05 02:15:23,096 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 02:15:23,199 [main] INFO CPB Stage - Create new button was clicked
+2025-01-05 02:15:26,361 [main] INFO CPB Stage - title was created
+2025-01-05 02:15:26,407 [main] INFO CPB Stage - description was created
+2025-01-05 02:15:26,433 [main] INFO CPB Stage - price was provided
+2025-01-05 02:15:26,454 [main] INFO CPB Stage - image uploaded
+2025-01-05 02:15:29,540 [main] INFO CPB Stage - create button was clicked
+2025-01-05 02:15:35,763 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-05 02:15:38,905 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-05 17:34:44,770 [main] INFO CPB Stage - open stage site
+2025-01-05 17:34:44,807 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:34:49,194 [main] INFO CPB Stage - click Edit
+2025-01-05 17:34:49,761 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 17:34:51,861 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 17:34:52,342 [main] INFO CPB Stage - test failed
+2025-01-05 17:37:27,265 [main] INFO CPB Stage - open stage site
+2025-01-05 17:37:27,303 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:37:32,404 [main] INFO CPB Stage - click Edit
+2025-01-05 17:38:33,122 [main] INFO CPB Stage - open stage site
+2025-01-05 17:38:33,157 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:38:38,142 [main] INFO CPB Stage - click Edit
+2025-01-05 17:47:00,405 [main] INFO CPB Stage - open stage site
+2025-01-05 17:47:00,444 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:47:11,657 [main] INFO CPB Stage - click Edit
+2025-01-05 17:47:14,770 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 17:54:50,521 [main] INFO CPB Stage - open stage site
+2025-01-05 17:54:50,561 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:54:55,064 [main] INFO CPB Stage - click Edit
+2025-01-05 17:54:58,174 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 17:55:59,612 [main] INFO CPB Stage - open stage site
+2025-01-05 17:55:59,650 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:56:03,918 [main] INFO CPB Stage - click Edit
+2025-01-05 17:56:07,032 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 17:57:23,315 [main] INFO CPB Stage - open stage site
+2025-01-05 17:57:23,353 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:57:27,806 [main] INFO CPB Stage - click Edit
+2025-01-05 17:57:30,913 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 17:57:34,012 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 17:58:18,247 [main] INFO CPB Stage - open stage site
+2025-01-05 17:58:18,285 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 17:58:22,534 [main] INFO CPB Stage - click Edit
+2025-01-05 17:58:25,637 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 17:58:31,747 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:01:38,040 [main] INFO CPB Stage - open stage site
+2025-01-05 18:01:38,081 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:01:43,102 [main] INFO CPB Stage - click Edit
+2025-01-05 18:01:46,208 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:01:52,388 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:02:21,240 [main] INFO CPB Stage - open stage site
+2025-01-05 18:02:21,279 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:02:26,058 [main] INFO CPB Stage - click Edit
+2025-01-05 18:02:29,179 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:02:35,275 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:03:46,530 [main] INFO CPB Stage - open stage site
+2025-01-05 18:03:46,568 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:03:51,036 [main] INFO CPB Stage - click Edit
+2025-01-05 18:03:54,123 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:04:00,233 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:07:40,610 [main] INFO CPB Stage - open stage site
+2025-01-05 18:07:40,648 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:07:45,135 [main] INFO CPB Stage - click Edit
+2025-01-05 18:07:48,243 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:07:54,349 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:13:31,183 [main] INFO CPB Stage - open stage site
+2025-01-05 18:13:31,223 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:13:35,706 [main] INFO CPB Stage - click Edit
+2025-01-05 18:13:38,871 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:13:44,971 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:18:26,949 [main] INFO CPB Stage - open stage site
+2025-01-05 18:18:26,986 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:18:31,302 [main] INFO CPB Stage - click Edit
+2025-01-05 18:18:34,416 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:18:40,512 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:18:40,578 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:19:09,182 [main] INFO CPB Stage - open stage site
+2025-01-05 18:19:09,219 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:19:13,802 [main] INFO CPB Stage - click Edit
+2025-01-05 18:19:16,907 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:19:23,008 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:19:23,074 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:25:05,837 [main] INFO CPB Stage - open stage site
+2025-01-05 18:25:05,875 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:25:10,347 [main] INFO CPB Stage - click Edit
+2025-01-05 18:25:13,457 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:25:19,564 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:25:19,633 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:25:22,742 [main] INFO CPB Stage - download button was clicked
+2025-01-05 18:25:59,398 [main] INFO CPB Stage - open stage site
+2025-01-05 18:25:59,436 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:26:03,919 [main] INFO CPB Stage - click Edit
+2025-01-05 18:26:07,119 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:26:13,217 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:26:13,287 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:26:16,391 [main] INFO CPB Stage - download button was clicked
+2025-01-05 18:29:07,374 [main] INFO CPB Stage - open stage site
+2025-01-05 18:29:07,412 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:29:11,944 [main] INFO CPB Stage - click Edit
+2025-01-05 18:29:28,491 [main] INFO CPB Stage - open stage site
+2025-01-05 18:29:28,529 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:29:33,478 [main] INFO CPB Stage - click Edit
+2025-01-05 18:29:36,568 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:29:42,672 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:29:42,741 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:29:45,841 [main] INFO CPB Stage - download button was clicked
+2025-01-05 18:33:15,385 [main] INFO CPB Stage - open stage site
+2025-01-05 18:33:15,424 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:33:19,950 [main] INFO CPB Stage - click Edit
+2025-01-05 18:33:23,054 [main] INFO CPB Stage - Settings button was clicked
+2025-01-05 18:33:29,163 [main] INFO CPB Stage - import/export was clicked
+2025-01-05 18:33:29,236 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-05 18:33:32,874 [main] INFO CPB Stage - download button was clicked
+2025-01-05 18:47:34,511 [main] INFO CPB Stage - open stage site
+2025-01-05 18:47:34,550 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 18:47:42,501 [main] INFO CPB Stage - click Edit
+2025-01-05 21:55:44,753 [main] INFO CPB Stage - open stage site
+2025-01-05 21:55:44,790 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 21:55:49,058 [main] INFO CPB Stage - click Edit
+2025-01-05 21:55:49,632 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 21:55:52,231 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:01:25,708 [main] INFO CPB Stage - open stage site
+2025-01-05 22:01:25,745 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:01:30,192 [main] INFO CPB Stage - click Edit
+2025-01-05 22:01:30,245 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:01:32,870 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:06:09,265 [main] INFO CPB Stage - open stage site
+2025-01-05 22:06:09,305 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:06:13,718 [main] INFO CPB Stage - click Edit
+2025-01-05 22:06:13,767 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:06:16,387 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:07:48,993 [main] INFO CPB Stage - open stage site
+2025-01-05 22:07:49,038 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:07:53,030 [main] INFO CPB Stage - click Edit
+2025-01-05 22:07:53,075 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:07:55,686 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:08:45,448 [main] INFO CPB Stage - open stage site
+2025-01-05 22:08:46,364 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:08:51,344 [main] INFO CPB Stage - click Edit
+2025-01-05 22:08:51,392 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:08:54,537 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:09:58,540 [main] INFO CPB Stage - open stage site
+2025-01-05 22:09:59,450 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:10:03,885 [main] INFO CPB Stage - click Edit
+2025-01-05 22:10:03,939 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:10:06,546 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:10:09,687 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:13:34,835 [main] INFO CPB Stage - open stage site
+2025-01-05 22:13:34,872 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:13:39,438 [main] INFO CPB Stage - click Edit
+2025-01-05 22:13:39,484 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:13:42,100 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:13:45,248 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:13:48,384 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:20:39,727 [main] INFO CPB Stage - open stage site
+2025-01-05 22:20:39,765 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:20:44,098 [main] INFO CPB Stage - click Edit
+2025-01-05 22:20:44,669 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:20:46,768 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:20:49,928 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:20:53,036 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:20:53,113 [main] INFO CPB Stage - product was saved
+2025-01-05 22:21:15,330 [main] INFO CPB Stage - open stage site
+2025-01-05 22:21:15,368 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:21:19,824 [main] INFO CPB Stage - click Edit
+2025-01-05 22:21:19,870 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:21:22,495 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:21:25,656 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:21:28,767 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:21:28,839 [main] INFO CPB Stage - product was saved
+2025-01-05 22:26:53,006 [main] INFO CPB Stage - open stage site
+2025-01-05 22:26:53,044 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:26:57,520 [main] INFO CPB Stage - click Edit
+2025-01-05 22:26:57,570 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:27:00,198 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:27:03,345 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:27:06,452 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:27:06,527 [main] INFO CPB Stage - product was saved
+2025-01-05 22:32:00,246 [main] INFO CPB Stage - open stage site
+2025-01-05 22:32:00,283 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:32:11,486 [main] INFO CPB Stage - click Edit
+2025-01-05 22:32:11,540 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:32:14,178 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:32:17,318 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:32:20,450 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:32:20,528 [main] INFO CPB Stage - product was saved
+2025-01-05 22:34:57,702 [main] INFO CPB Stage - open stage site
+2025-01-05 22:34:57,739 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:35:02,234 [main] INFO CPB Stage - click Edit
+2025-01-05 22:35:02,281 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:35:04,889 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:35:08,036 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:35:11,168 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:35:11,244 [main] INFO CPB Stage - product was saved
+2025-01-05 22:36:12,872 [main] INFO CPB Stage - open stage site
+2025-01-05 22:36:12,909 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:36:17,325 [main] INFO CPB Stage - click Edit
+2025-01-05 22:36:17,372 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:36:20,007 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:36:23,147 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:36:26,277 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:36:26,352 [main] INFO CPB Stage - product was saved
+2025-01-05 22:37:35,708 [main] INFO CPB Stage - open stage site
+2025-01-05 22:37:35,745 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:37:39,665 [main] INFO CPB Stage - click Edit
+2025-01-05 22:37:40,245 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:37:42,375 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:37:45,517 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:37:48,650 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:37:48,731 [main] INFO CPB Stage - product was saved
+2025-01-05 22:38:56,737 [main] INFO CPB Stage - open stage site
+2025-01-05 22:38:56,775 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:39:01,318 [main] INFO CPB Stage - click Edit
+2025-01-05 22:39:01,366 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:39:03,985 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:39:07,124 [main] INFO CPB Stage - image uploaded
+2025-01-05 22:39:10,257 [main] INFO CPB Stage - custom option was saved
+2025-01-05 22:39:10,341 [main] INFO CPB Stage - product was saved
+2025-01-05 22:41:40,566 [main] INFO CPB Stage - open stage site
+2025-01-05 22:41:40,602 [main] INFO CPB Stage - switch to iFrame
+2025-01-05 22:41:45,671 [main] INFO CPB Stage - click Edit
+2025-01-05 22:41:45,714 [main] INFO CPB Stage - click Admin Mode
+2025-01-05 22:41:48,335 [main] INFO CPB Stage - click on New Custom Option
+2025-01-05 22:41:51,473 [main] INFO CPB Stage - test passed
+2025-01-06 12:28:38,516 [main] INFO CPB Stage - open stage site
+2025-01-06 12:28:38,553 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 12:28:47,163 [main] INFO CPB Stage - click Edit
+2025-01-06 12:28:47,213 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 12:28:50,386 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 12:29:26,386 [main] INFO CPB Stage - open stage site
+2025-01-06 12:29:26,422 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 12:29:30,686 [main] INFO CPB Stage - click Edit
+2025-01-06 12:29:31,248 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 12:29:34,406 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:00:24,209 [main] INFO CPB Stage - open stage site
+2025-01-06 13:00:24,246 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:00:34,425 [main] INFO CPB Stage - click Edit
+2025-01-06 13:00:34,470 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 13:00:38,143 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:00:41,162 [main] INFO CPB Stage - 2 elements were switched
+2025-01-06 13:01:10,109 [main] INFO CPB Stage - open stage site
+2025-01-06 13:01:10,149 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:01:14,618 [main] INFO CPB Stage - click Edit
+2025-01-06 13:01:14,666 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 13:01:17,813 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:01:20,833 [main] INFO CPB Stage - 2 elements were switched
+2025-01-06 13:03:03,647 [main] INFO CPB Stage - open stage site
+2025-01-06 13:03:03,684 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:03:08,684 [main] INFO CPB Stage - click Edit
+2025-01-06 13:03:08,731 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 13:03:11,848 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:03:14,866 [main] INFO CPB Stage - 2 elements were switched
+2025-01-06 13:08:48,448 [main] INFO CPB Stage - open stage site
+2025-01-06 13:08:48,486 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:08:53,290 [main] INFO CPB Stage - click Edit
+2025-01-06 13:08:53,860 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 13:08:57,097 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:09:03,600 [main] INFO CPB Stage - 2 elements were switched
+2025-01-06 13:25:21,864 [main] INFO CPB Stage - open stage site
+2025-01-06 13:25:21,902 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:25:26,345 [main] INFO CPB Stage - click Edit
+2025-01-06 13:25:26,393 [main] INFO CPB Stage - click Admin Mode
+2025-01-06 13:25:29,527 [main] INFO CPB Stage - reorder mode turn on
+2025-01-06 13:25:33,051 [main] INFO CPB Stage - 2 elements were switched
+2025-01-06 13:33:12,222 [main] INFO CPB Stage - open stage site
+2025-01-06 13:33:12,259 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:33:16,767 [main] INFO CPB Stage - click Edit
+2025-01-06 13:33:16,813 [main] INFO CPB Stage - Turn ON Admin Mode
+2025-01-06 13:33:16,834 [main] INFO CPB Stage - Turn OFF Admin Mode
+2025-01-06 13:51:10,808 [main] INFO CPB Stage - open stage site
+2025-01-06 13:51:10,844 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:51:15,822 [main] INFO CPB Stage - click Edit
+2025-01-06 13:51:48,770 [main] INFO CPB Stage - open stage site
+2025-01-06 13:51:48,808 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:51:53,135 [main] INFO CPB Stage - click Edit
+2025-01-06 13:52:57,989 [main] INFO CPB Stage - open stage site
+2025-01-06 13:52:58,027 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:53:02,539 [main] INFO CPB Stage - click Edit
+2025-01-06 13:56:08,904 [main] INFO CPB Stage - open stage site
+2025-01-06 13:56:08,942 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:56:13,324 [main] INFO CPB Stage - click Edit
+2025-01-06 13:57:39,181 [main] INFO CPB Stage - open stage site
+2025-01-06 13:57:39,218 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:57:44,300 [main] INFO CPB Stage - click Edit
+2025-01-06 13:58:26,507 [main] INFO CPB Stage - open stage site
+2025-01-06 13:58:26,546 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:58:31,085 [main] INFO CPB Stage - click Edit
+2025-01-06 13:59:22,233 [main] INFO CPB Stage - open stage site
+2025-01-06 13:59:22,272 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 13:59:26,731 [main] INFO CPB Stage - click Edit
+2025-01-06 14:00:06,932 [main] INFO CPB Stage - open stage site
+2025-01-06 14:00:06,975 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:00:11,957 [main] INFO CPB Stage - click Edit
+2025-01-06 14:00:15,205 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:01:11,415 [main] INFO CPB Stage - open stage site
+2025-01-06 14:01:11,454 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:01:15,933 [main] INFO CPB Stage - click Edit
+2025-01-06 14:05:41,571 [main] INFO CPB Stage - open stage site
+2025-01-06 14:05:41,613 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:05:46,048 [main] INFO CPB Stage - click Edit
+2025-01-06 14:05:49,378 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:06:16,137 [main] INFO CPB Stage - open stage site
+2025-01-06 14:06:16,174 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:06:21,148 [main] INFO CPB Stage - click Edit
+2025-01-06 14:06:27,871 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:20:30,745 [main] INFO CPB Stage - open stage site
+2025-01-06 14:20:30,783 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:20:36,346 [main] INFO CPB Stage - click Edit
+2025-01-06 14:20:42,575 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:22:18,938 [main] INFO CPB Stage - open stage site
+2025-01-06 14:22:18,977 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:22:23,350 [main] INFO CPB Stage - click Edit
+2025-01-06 14:22:29,597 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:25:06,278 [main] INFO CPB Stage - open stage site
+2025-01-06 14:25:06,317 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:25:10,786 [main] INFO CPB Stage - click Edit
+2025-01-06 14:25:23,723 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:26:49,770 [main] INFO CPB Stage - open stage site
+2025-01-06 14:26:49,810 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:26:54,271 [main] INFO CPB Stage - click Edit
+2025-01-06 14:27:00,458 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:27:40,491 [main] INFO CPB Stage - open stage site
+2025-01-06 14:27:40,530 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:27:45,062 [main] INFO CPB Stage - click Edit
+2025-01-06 14:27:51,265 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:30:38,664 [main] INFO CPB Stage - open stage site
+2025-01-06 14:30:38,702 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:30:43,122 [main] INFO CPB Stage - click Edit
+2025-01-06 14:30:49,367 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:32:39,636 [main] INFO CPB Stage - open stage site
+2025-01-06 14:32:39,676 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:32:44,708 [main] INFO CPB Stage - click Edit
+2025-01-06 14:32:51,005 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:37:13,558 [main] INFO CPB Stage - open stage site
+2025-01-06 14:37:13,595 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:37:17,890 [main] INFO CPB Stage - click Edit
+2025-01-06 14:37:31,385 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:37:31,742 [main] INFO CPB Stage - password was entered
+2025-01-06 14:40:49,264 [main] INFO CPB Stage - open stage site
+2025-01-06 14:40:49,300 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:40:53,774 [main] INFO CPB Stage - click Edit
+2025-01-06 14:40:59,976 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:41:00,602 [main] INFO CPB Stage - password was entered
+2025-01-06 14:41:42,941 [main] INFO CPB Stage - open stage site
+2025-01-06 14:41:42,978 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:41:47,423 [main] INFO CPB Stage - click Edit
+2025-01-06 14:41:53,620 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:41:57,246 [main] INFO CPB Stage - password was entered
+2025-01-06 14:42:50,043 [main] INFO CPB Stage - open stage site
+2025-01-06 14:42:50,082 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:42:54,597 [main] INFO CPB Stage - click Edit
+2025-01-06 14:43:01,459 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:43:05,129 [main] INFO CPB Stage - password was entered
+2025-01-06 14:44:08,811 [main] INFO CPB Stage - open stage site
+2025-01-06 14:44:08,848 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:44:13,197 [main] INFO CPB Stage - click Edit
+2025-01-06 14:44:26,645 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:44:30,011 [main] INFO CPB Stage - password was entered
+2025-01-06 14:48:58,261 [main] INFO CPB Stage - open stage site
+2025-01-06 14:48:58,297 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:49:02,578 [main] INFO CPB Stage - click Edit
+2025-01-06 14:49:45,039 [main] INFO CPB Stage - open stage site
+2025-01-06 14:49:45,077 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:49:49,425 [main] INFO CPB Stage - click Edit
+2025-01-06 14:49:56,152 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:49:59,815 [main] INFO CPB Stage - password was entered
+2025-01-06 14:50:59,361 [main] INFO CPB Stage - open stage site
+2025-01-06 14:50:59,399 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:51:03,819 [main] INFO CPB Stage - click Edit
+2025-01-06 14:51:11,953 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:51:15,528 [main] INFO CPB Stage - password was entered
+2025-01-06 14:52:34,837 [main] INFO CPB Stage - open stage site
+2025-01-06 14:52:34,874 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:52:39,302 [main] INFO CPB Stage - click Edit
+2025-01-06 14:52:53,271 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:52:56,935 [main] INFO CPB Stage - password was entered
+2025-01-06 14:57:04,717 [main] INFO CPB Stage - open stage site
+2025-01-06 14:57:04,755 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:57:09,307 [main] INFO CPB Stage - click Edit
+2025-01-06 14:57:15,521 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:57:19,155 [main] INFO CPB Stage - password was entered
+2025-01-06 14:58:28,971 [main] INFO CPB Stage - open stage site
+2025-01-06 14:58:29,008 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:58:33,837 [main] INFO CPB Stage - click Edit
+2025-01-06 14:58:40,565 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:58:43,978 [main] INFO CPB Stage - password was entered
+2025-01-06 14:59:13,037 [main] INFO CPB Stage - open stage site
+2025-01-06 14:59:13,073 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 14:59:17,565 [main] INFO CPB Stage - click Edit
+2025-01-06 14:59:24,285 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 14:59:27,659 [main] INFO CPB Stage - password was entered
+2025-01-06 15:01:20,553 [main] INFO CPB Stage - open stage site
+2025-01-06 15:01:20,599 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:01:24,958 [main] INFO CPB Stage - click Edit
+2025-01-06 15:01:38,382 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:01:41,767 [main] INFO CPB Stage - password was entered
+2025-01-06 15:03:18,662 [main] INFO CPB Stage - open stage site
+2025-01-06 15:03:18,700 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:03:23,040 [main] INFO CPB Stage - click Edit
+2025-01-06 15:03:29,832 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:03:33,469 [main] INFO CPB Stage - password was entered
+2025-01-06 15:04:54,236 [main] INFO CPB Stage - open stage site
+2025-01-06 15:04:54,273 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:04:58,778 [main] INFO CPB Stage - click Edit
+2025-01-06 15:05:05,007 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:05:08,390 [main] INFO CPB Stage - password was entered
+2025-01-06 15:05:08,416 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:05:11,522 [main] INFO CPB Stage - Preview button was clicked 2 time
+2025-01-06 15:07:48,699 [main] INFO CPB Stage - open stage site
+2025-01-06 15:07:48,739 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:07:53,204 [main] INFO CPB Stage - click Edit
+2025-01-06 15:07:59,450 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:08:02,824 [main] INFO CPB Stage - password was entered
+2025-01-06 15:08:02,852 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:08:05,961 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:09:01,938 [main] INFO CPB Stage - open stage site
+2025-01-06 15:09:01,980 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:09:06,278 [main] INFO CPB Stage - click Edit
+2025-01-06 15:09:13,017 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:09:16,441 [main] INFO CPB Stage - password was entered
+2025-01-06 15:09:16,466 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:09:19,573 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:28:03,196 [main] INFO CPB Stage - open stage site
+2025-01-06 15:28:03,233 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:28:08,117 [main] INFO CPB Stage - click Edit
+2025-01-06 15:28:21,603 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:28:21,625 [main] INFO CPB Stage - Switched to new tab
+2025-01-06 15:28:25,374 [main] INFO CPB Stage - password was entered
+2025-01-06 15:28:25,387 [main] INFO CPB Stage - return to first tab
+2025-01-06 15:32:29,178 [main] INFO CPB Stage - open stage site
+2025-01-06 15:32:29,218 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:32:33,708 [main] INFO CPB Stage - click Edit
+2025-01-06 15:32:40,704 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:32:44,216 [main] INFO CPB Stage - password was entered
+2025-01-06 15:32:44,239 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:32:47,332 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:33:35,187 [main] INFO CPB Stage - open stage site
+2025-01-06 15:33:35,223 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:33:39,558 [main] INFO CPB Stage - click Edit
+2025-01-06 15:33:53,101 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:33:56,479 [main] INFO CPB Stage - password was entered
+2025-01-06 15:33:56,506 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:33:59,614 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:37:22,427 [main] INFO CPB Stage - open stage site
+2025-01-06 15:37:22,464 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:37:26,969 [main] INFO CPB Stage - click Edit
+2025-01-06 15:37:40,433 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:37:44,266 [main] INFO CPB Stage - password was entered
+2025-01-06 15:37:44,293 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:37:47,400 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:38:49,927 [main] INFO CPB Stage - open stage site
+2025-01-06 15:38:49,967 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:38:54,957 [main] INFO CPB Stage - click Edit
+2025-01-06 15:39:01,211 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:39:05,011 [main] INFO CPB Stage - password was entered
+2025-01-06 15:39:05,037 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:39:08,155 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:41:57,157 [main] INFO CPB Stage - open stage site
+2025-01-06 15:41:57,194 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:42:01,719 [main] INFO CPB Stage - click Edit
+2025-01-06 15:42:13,221 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:42:16,939 [main] INFO CPB Stage - password was entered
+2025-01-06 15:48:23,028 [main] INFO CPB Stage - open stage site
+2025-01-06 15:48:23,066 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:48:28,119 [main] INFO CPB Stage - click Edit
+2025-01-06 15:48:41,087 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:48:44,919 [main] INFO CPB Stage - password was entered
+2025-01-06 15:48:44,944 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:48:48,047 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:51:40,357 [main] INFO CPB Stage - open stage site
+2025-01-06 15:51:40,395 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:51:45,325 [main] INFO CPB Stage - click Edit
+2025-01-06 15:51:59,323 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:52:03,202 [main] INFO CPB Stage - password was entered
+2025-01-06 15:52:03,228 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:52:06,337 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:56:29,145 [main] INFO CPB Stage - open stage site
+2025-01-06 15:56:29,184 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:56:33,459 [main] INFO CPB Stage - click Edit
+2025-01-06 15:56:46,868 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 15:56:50,248 [main] INFO CPB Stage - password was entered
+2025-01-06 15:56:50,272 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 15:56:53,381 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:01:09,500 [main] INFO CPB Stage - open stage site
+2025-01-06 16:01:09,540 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:01:14,019 [main] INFO CPB Stage - click Edit
+2025-01-06 16:01:20,770 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:06:49,929 [main] INFO CPB Stage - open stage site
+2025-01-06 16:06:49,968 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:06:54,491 [main] INFO CPB Stage - click Edit
+2025-01-06 16:07:00,738 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:08:12,355 [main] INFO CPB Stage - open stage site
+2025-01-06 16:08:12,391 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:08:16,861 [main] INFO CPB Stage - click Edit
+2025-01-06 16:08:29,868 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:13:09,620 [main] INFO CPB Stage - open stage site
+2025-01-06 16:13:09,659 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:13:14,157 [main] INFO CPB Stage - click Edit
+2025-01-06 16:13:20,396 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:13:24,294 [main] INFO CPB Stage - password was entered
+2025-01-06 16:13:24,310 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:13:27,408 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:15:06,829 [main] INFO CPB Stage - open stage site
+2025-01-06 16:15:06,867 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:15:11,298 [main] INFO CPB Stage - click Edit
+2025-01-06 16:15:17,524 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:15:21,259 [main] INFO CPB Stage - password was entered
+2025-01-06 16:15:21,288 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:15:24,406 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:16:02,287 [main] INFO CPB Stage - open stage site
+2025-01-06 16:16:02,325 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:16:06,754 [main] INFO CPB Stage - click Edit
+2025-01-06 16:18:06,349 [main] INFO CPB Stage - open stage site
+2025-01-06 16:18:06,389 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:18:10,857 [main] INFO CPB Stage - click Edit
+2025-01-06 16:18:17,584 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:18:21,050 [main] INFO CPB Stage - password was entered
+2025-01-06 16:18:21,073 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:18:24,185 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:34:41,066 [main] INFO CPB Stage - open stage site
+2025-01-06 16:34:41,111 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:34:45,556 [main] INFO CPB Stage - click Edit
+2025-01-06 16:34:54,900 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:34:58,485 [main] INFO CPB Stage - password was entered
+2025-01-06 16:34:58,511 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:35:01,627 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:36:06,975 [main] INFO CPB Stage - open stage site
+2025-01-06 16:36:07,014 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:36:11,497 [main] INFO CPB Stage - click Edit
+2025-01-06 16:36:17,694 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:36:21,566 [main] INFO CPB Stage - password was entered
+2025-01-06 16:36:21,591 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:36:24,718 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:40:37,755 [main] INFO CPB Stage - open stage site
+2025-01-06 16:40:37,797 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:40:42,264 [main] INFO CPB Stage - click Edit
+2025-01-06 16:40:48,455 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:45:27,934 [main] INFO CPB Stage - open stage site
+2025-01-06 16:45:27,972 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:45:32,490 [main] INFO CPB Stage - click Edit
+2025-01-06 16:45:45,930 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 16:45:50,366 [main] INFO CPB Stage - password was entered
+2025-01-06 16:45:50,391 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 16:45:53,493 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:09:03,243 [main] INFO CPB Stage - open stage site
+2025-01-06 21:09:03,279 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:09:08,085 [main] INFO CPB Stage - click Edit
+2025-01-06 21:09:21,587 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:10:21,876 [main] INFO CPB Stage - open stage site
+2025-01-06 21:10:21,914 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:10:26,419 [main] INFO CPB Stage - click Edit
+2025-01-06 21:10:32,663 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:10:36,644 [main] INFO CPB Stage - password was entered
+2025-01-06 21:10:36,734 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:10:39,884 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:17:46,644 [main] INFO CPB Stage - open stage site
+2025-01-06 21:17:46,684 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:17:51,139 [main] INFO CPB Stage - click Edit
+2025-01-06 21:17:57,355 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:18:00,785 [main] INFO CPB Stage - password was entered
+2025-01-06 21:18:00,888 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:18:03,988 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:22:02,570 [main] INFO CPB Stage - open stage site
+2025-01-06 21:22:02,607 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:22:06,915 [main] INFO CPB Stage - click Edit
+2025-01-06 21:22:13,118 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:22:16,469 [main] INFO CPB Stage - password was entered
+2025-01-06 21:22:16,569 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:22:19,667 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:35:57,498 [main] INFO CPB Stage - open stage site
+2025-01-06 21:35:57,535 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:36:01,792 [main] INFO CPB Stage - click Edit
+2025-01-06 21:36:08,515 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:36:11,858 [main] INFO CPB Stage - password was entered
+2025-01-06 21:36:11,955 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:36:15,054 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:37:07,852 [main] INFO CPB Stage - open stage site
+2025-01-06 21:37:07,890 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:37:12,222 [main] INFO CPB Stage - click Edit
+2025-01-06 21:37:18,945 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:37:22,541 [main] INFO CPB Stage - password was entered
+2025-01-06 21:37:22,631 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:37:25,735 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 21:47:34,286 [main] INFO CPB Stage - open stage site
+2025-01-06 21:47:34,324 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 21:47:38,612 [main] INFO CPB Stage - click Edit
+2025-01-06 21:47:51,579 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:02:53,587 [main] INFO CPB Stage - open stage site
+2025-01-06 22:02:53,625 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:02:58,129 [main] INFO CPB Stage - click Edit
+2025-01-06 22:03:04,343 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:04:48,052 [main] INFO CPB Stage - open stage site
+2025-01-06 22:04:48,090 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:04:52,388 [main] INFO CPB Stage - click Edit
+2025-01-06 22:05:05,848 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:06:21,635 [main] INFO CPB Stage - open stage site
+2025-01-06 22:06:21,671 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:06:26,153 [main] INFO CPB Stage - click Edit
+2025-01-06 22:06:32,359 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:08:42,112 [main] INFO CPB Stage - open stage site
+2025-01-06 22:08:42,151 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:08:46,539 [main] INFO CPB Stage - click Edit
+2025-01-06 22:08:52,842 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:10:05,652 [main] INFO CPB Stage - open stage site
+2025-01-06 22:10:05,689 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:10:10,753 [main] INFO CPB Stage - click Edit
+2025-01-06 22:10:16,968 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:10:20,547 [main] INFO CPB Stage - password was entered
+2025-01-06 22:10:20,591 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:10:23,690 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:11:13,207 [main] INFO CPB Stage - open stage site
+2025-01-06 22:11:13,243 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:11:17,549 [main] INFO CPB Stage - click Edit
+2025-01-06 22:11:31,539 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:11:35,171 [main] INFO CPB Stage - password was entered
+2025-01-06 22:11:35,235 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:11:38,333 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:38:58,275 [main] INFO CPB Stage - open stage site
+2025-01-06 22:38:58,316 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:39:03,301 [main] INFO CPB Stage - click Edit
+2025-01-06 22:39:15,265 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:39:18,843 [main] INFO CPB Stage - password was entered
+2025-01-06 22:41:13,014 [main] INFO CPB Stage - open stage site
+2025-01-06 22:41:13,051 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:41:17,501 [main] INFO CPB Stage - click Edit
+2025-01-06 22:41:23,767 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:41:27,392 [main] INFO CPB Stage - password was entered
+2025-01-06 22:48:07,914 [main] INFO CPB Stage - open stage site
+2025-01-06 22:48:42,192 [main] INFO CPB Stage - open stage site
+2025-01-06 22:48:42,236 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:48:46,713 [main] INFO CPB Stage - click Edit
+2025-01-06 22:48:52,936 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:48:56,543 [main] INFO CPB Stage - password was entered
+2025-01-06 22:48:56,634 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:48:59,736 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:53:47,030 [main] INFO CPB Stage - open stage site
+2025-01-06 22:53:47,067 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:53:52,011 [main] INFO CPB Stage - click Edit
+2025-01-06 22:54:04,973 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:54:08,633 [main] INFO CPB Stage - password was entered
+2025-01-06 22:54:08,729 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 22:54:11,824 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 22:54:20,945 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:11:39,149 [main] INFO CPB Stage - open stage site
+2025-01-06 23:11:39,188 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:11:43,669 [main] INFO CPB Stage - click Edit
+2025-01-06 23:11:49,911 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:11:53,285 [main] INFO CPB Stage - password was entered
+2025-01-06 23:11:53,377 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:11:56,480 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:12:05,599 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:12:05,731 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:12:24,780 [main] INFO CPB Stage - open stage site
+2025-01-06 23:12:24,818 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:12:29,307 [main] INFO CPB Stage - click Edit
+2025-01-06 23:12:42,290 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:12:45,871 [main] INFO CPB Stage - password was entered
+2025-01-06 23:13:20,542 [main] INFO CPB Stage - open stage site
+2025-01-06 23:13:20,582 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:13:25,153 [main] INFO CPB Stage - click Edit
+2025-01-06 23:13:31,355 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:13:34,951 [main] INFO CPB Stage - password was entered
+2025-01-06 23:13:35,049 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:13:38,157 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:13:47,267 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:13:47,305 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:14:45,318 [main] INFO CPB Stage - open stage site
+2025-01-06 23:14:45,355 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:14:49,851 [main] INFO CPB Stage - click Edit
+2025-01-06 23:14:56,058 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:14:59,851 [main] INFO CPB Stage - password was entered
+2025-01-06 23:14:59,958 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:15:03,057 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:15:12,176 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:15:15,314 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:20:08,058 [main] INFO CPB Stage - open stage site
+2025-01-06 23:20:08,097 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:20:12,564 [main] INFO CPB Stage - click Edit
+2025-01-06 23:20:18,803 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:20:22,404 [main] INFO CPB Stage - password was entered
+2025-01-06 23:20:22,500 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:20:25,598 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:20:34,817 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:20:37,861 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:20:37,950 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-06 23:39:00,609 [main] INFO CPB Stage - open stage site
+2025-01-06 23:39:00,651 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:39:05,122 [main] INFO CPB Stage - click Edit
+2025-01-06 23:39:18,123 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:39:21,769 [main] INFO CPB Stage - password was entered
+2025-01-06 23:39:21,865 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:39:24,963 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:39:34,179 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:39:37,224 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:39:37,312 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-06 23:41:26,328 [main] INFO CPB Stage - open stage site
+2025-01-06 23:41:26,365 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:41:30,832 [main] INFO CPB Stage - click Edit
+2025-01-06 23:41:37,038 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:41:40,403 [main] INFO CPB Stage - password was entered
+2025-01-06 23:41:40,507 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:41:43,605 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:41:52,831 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:41:55,874 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:41:55,964 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-06 23:45:41,683 [main] INFO CPB Stage - open stage site
+2025-01-06 23:45:41,722 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:45:45,753 [main] INFO CPB Stage - click Edit
+2025-01-06 23:45:51,943 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:45:55,859 [main] INFO CPB Stage - password was entered
+2025-01-06 23:45:55,964 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:46:04,077 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:46:13,196 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:46:16,339 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:46:22,365 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-06 23:47:12,434 [main] INFO CPB Stage - open stage site
+2025-01-06 23:47:12,473 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:47:16,898 [main] INFO CPB Stage - click Edit
+2025-01-06 23:47:23,216 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:47:26,745 [main] INFO CPB Stage - password was entered
+2025-01-06 23:47:26,864 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:47:29,962 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:47:39,176 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:47:42,220 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:47:48,645 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-06 23:48:17,531 [main] INFO CPB Stage - open stage site
+2025-01-06 23:48:17,573 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:48:22,312 [main] INFO CPB Stage - click Edit
+2025-01-06 23:48:35,755 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:48:39,257 [main] INFO CPB Stage - password was entered
+2025-01-06 23:48:39,347 [main] INFO CPB Stage - switch to iFrame
+2025-01-06 23:48:42,449 [main] INFO CPB Stage - Preview button was clicked
+2025-01-06 23:48:51,671 [main] INFO CPB Stage - Name was entered
+2025-01-06 23:48:54,716 [main] INFO CPB Stage - Text was entered
+2025-01-06 23:49:00,620 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-07 13:30:22,503 [main] INFO CPB Stage - open stage site
+2025-01-07 13:30:22,541 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:30:27,136 [main] INFO CPB Stage - click Edit
+2025-01-07 13:30:33,434 [main] INFO CPB Stage - Preview button was clicked
+2025-01-07 13:30:37,553 [main] INFO CPB Stage - password was entered
+2025-01-07 13:30:37,649 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:30:40,747 [main] INFO CPB Stage - Preview button was clicked
+2025-01-07 13:30:49,845 [main] INFO CPB Stage - Name was entered
+2025-01-07 13:30:52,986 [main] INFO CPB Stage - Text was entered
+2025-01-07 13:31:00,196 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-07 13:32:23,407 [main] INFO CPB Stage - open stage site
+2025-01-07 13:32:23,445 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:32:27,968 [main] INFO CPB Stage - click Edit
+2025-01-07 13:32:28,017 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:32:38,424 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:32:41,569 [main] INFO CPB Stage - image uploaded
+2025-01-07 13:32:44,753 [main] INFO CPB Stage - custom option was saved
+2025-01-07 13:32:44,893 [main] INFO CPB Stage - product was saved
+2025-01-07 13:38:20,111 [main] INFO CPB Stage - open stage site
+2025-01-07 13:38:20,144 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:38:24,866 [main] INFO CPB Stage - click Edit
+2025-01-07 13:38:24,917 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:38:28,092 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:41:41,447 [main] INFO CPB Stage - open stage site
+2025-01-07 13:41:41,479 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:41:46,476 [main] INFO CPB Stage - click Edit
+2025-01-07 13:41:46,527 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:41:50,176 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:42:50,564 [main] INFO CPB Stage - open stage site
+2025-01-07 13:42:50,602 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:42:55,097 [main] INFO CPB Stage - click Edit
+2025-01-07 13:42:55,149 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:42:58,364 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:46:26,612 [main] INFO CPB Stage - open stage site
+2025-01-07 13:46:26,650 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:46:31,432 [main] INFO CPB Stage - click Edit
+2025-01-07 13:46:31,481 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:46:41,481 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:47:38,133 [main] INFO CPB Stage - open stage site
+2025-01-07 13:47:38,170 [main] INFO CPB Stage - switch to iFrame
+2025-01-07 13:47:42,592 [main] INFO CPB Stage - click Edit
+2025-01-07 13:47:42,641 [main] INFO CPB Stage - click Admin Mode
+2025-01-07 13:47:45,822 [main] INFO CPB Stage - click on New Custom Option
+2025-01-07 13:47:48,946 [main] INFO CPB Stage - Title was entered
+2025-01-07 13:47:49,069 [main] INFO CPB Stage - image uploaded
+2025-01-07 13:47:52,256 [main] INFO CPB Stage - custom option was saved
+2025-01-07 13:47:52,392 [main] INFO CPB Stage - product was saved
+2025-01-09 13:31:59,163 [main] INFO CPB Stage - open stage site
+2025-01-09 13:31:59,203 [main] INFO CPB Stage - switch to iFrame
+2025-01-09 13:32:03,722 [main] INFO CPB Stage - click Edit
+2025-01-09 13:32:03,771 [main] INFO CPB Stage - click Admin Mode
+2025-01-09 13:32:07,052 [main] INFO CPB Stage - click on New Custom Option
+2025-01-09 13:32:10,193 [main] INFO CPB Stage - Title was entered
+2025-01-09 13:32:10,307 [main] INFO CPB Stage - image uploaded
+2025-01-09 13:32:13,523 [main] INFO CPB Stage - custom option was saved
+2025-01-09 13:32:13,659 [main] INFO CPB Stage - product was saved
+2025-01-09 13:34:55,990 [main] INFO CPB Stage - open stage site
+2025-01-09 13:34:56,026 [main] INFO CPB Stage - switch to iFrame
+2025-01-09 13:35:00,998 [main] INFO CPB Stage - click Edit
+2025-01-09 13:35:01,046 [main] INFO CPB Stage - click Admin Mode
+2025-01-09 13:35:11,434 [main] INFO CPB Stage - click on New Custom Option
+2025-01-09 13:35:14,550 [main] INFO CPB Stage - Title was entered
+2025-01-09 13:35:14,687 [main] INFO CPB Stage - image uploaded
+2025-01-09 13:35:17,890 [main] INFO CPB Stage - custom option was saved
+2025-01-09 13:35:18,015 [main] INFO CPB Stage - product was saved
+2025-01-14 01:56:02,012 [main] INFO CPB Stage - open stage site
+2025-01-14 01:56:02,054 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 01:56:12,555 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 01:57:01,363 [main] INFO CPB Stage - open stage site
+2025-01-14 01:57:01,401 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 01:57:04,665 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 01:59:04,719 [main] INFO CPB Stage - open stage site
+2025-01-14 01:59:04,758 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 01:59:08,013 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 01:59:14,474 [main] INFO CPB Stage - password was entered
+2025-01-14 02:02:03,861 [main] INFO CPB Stage - open stage site
+2025-01-14 02:02:03,900 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:02:07,171 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:02:13,534 [main] INFO CPB Stage - password was entered
+2025-01-14 02:04:31,765 [main] INFO CPB Stage - open stage site
+2025-01-14 02:04:31,805 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:04:35,063 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:04:41,415 [main] INFO CPB Stage - password was entered
+2025-01-14 02:05:02,550 [main] INFO CPB Stage - open stage site
+2025-01-14 02:05:02,587 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:05:05,883 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:05:12,538 [main] INFO CPB Stage - password was entered
+2025-01-14 02:06:36,866 [main] INFO CPB Stage - open stage site
+2025-01-14 02:06:36,906 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:06:40,229 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:06:46,824 [main] INFO CPB Stage - password was entered
+2025-01-14 02:09:24,773 [main] INFO CPB Stage - open stage site
+2025-01-14 02:09:24,811 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:09:29,091 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:09:35,709 [main] INFO CPB Stage - password was entered
+2025-01-14 02:09:35,783 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:09:35,888 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:10:05,193 [main] INFO CPB Stage - open stage site
+2025-01-14 02:10:05,232 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:10:08,505 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:10:15,240 [main] INFO CPB Stage - password was entered
+2025-01-14 02:10:15,615 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:10:15,721 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:14:36,933 [main] INFO CPB Stage - open stage site
+2025-01-14 02:14:36,971 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:14:41,444 [main] INFO CPB Stage - click Edit
+2025-01-14 02:14:41,494 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:14:45,154 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:14:48,293 [main] INFO CPB Stage - test passed
+2025-01-14 02:14:54,618 [main] INFO CPB Stage - open stage site
+2025-01-14 02:14:54,641 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:14:59,724 [main] INFO CPB Stage - particular product was cloned
+2025-01-14 02:15:05,878 [main] INFO CPB Stage - particular product was deleted
+2025-01-14 02:15:21,983 [main] INFO CPB Stage - open stage site
+2025-01-14 02:15:22,003 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:15:22,099 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 02:15:28,210 [main] INFO CPB Stage - Checkbox was checked
+2025-01-14 02:15:28,241 [main] INFO CPB Stage - file uploaded
+2025-01-14 02:15:34,344 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-14 02:15:34,895 [main] INFO CPB Stage - alert is checked
+2025-01-14 02:15:35,026 [main] INFO CPB Stage - title is created
+2025-01-14 02:15:35,050 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:15:38,162 [main] INFO CPB Stage - create button was clicked
+2025-01-14 02:15:45,169 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 02:15:48,302 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 02:15:56,634 [main] INFO CPB Stage - open stage site
+2025-01-14 02:15:56,656 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:16:01,158 [main] INFO CPB Stage - click Edit
+2025-01-14 02:16:01,205 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:16:04,349 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:16:07,453 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:16:07,569 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:16:10,814 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:16:10,964 [main] INFO CPB Stage - product was saved
+2025-01-14 02:18:16,981 [main] INFO CPB Stage - open stage site
+2025-01-14 02:18:17,002 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:18:21,916 [main] INFO CPB Stage - click Edit
+2025-01-14 02:18:28,120 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 02:18:32,103 [main] INFO CPB Stage - password was entered
+2025-01-14 02:18:32,199 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:18:35,343 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 02:18:44,468 [main] INFO CPB Stage - Name was entered
+2025-01-14 02:18:47,619 [main] INFO CPB Stage - Text was entered
+2025-01-14 02:18:55,073 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-14 02:19:03,197 [main] INFO CPB Stage - open stage site
+2025-01-14 02:19:03,220 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:19:03,314 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 02:19:06,466 [main] INFO CPB Stage - title was created
+2025-01-14 02:19:06,513 [main] INFO CPB Stage - description was created
+2025-01-14 02:19:06,538 [main] INFO CPB Stage - price was provided
+2025-01-14 02:19:06,559 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:19:09,645 [main] INFO CPB Stage - create button was clicked
+2025-01-14 02:19:16,006 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 02:19:19,171 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 02:19:27,203 [main] INFO CPB Stage - open stage site
+2025-01-14 02:19:27,224 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:19:38,375 [main] INFO CPB Stage - click Edit
+2025-01-14 02:19:41,462 [main] INFO CPB Stage - Settings button was clicked
+2025-01-14 02:19:47,558 [main] INFO CPB Stage - import/export was clicked
+2025-01-14 02:19:47,625 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-14 02:19:51,810 [main] INFO CPB Stage - download button was clicked
+2025-01-14 02:19:56,550 [main] INFO CPB Stage - open stage site
+2025-01-14 02:19:56,569 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:20:00,310 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:20:07,347 [main] INFO CPB Stage - password was entered
+2025-01-14 02:20:07,678 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:20:07,770 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 02:20:15,353 [main] INFO CPB Stage - open stage site
+2025-01-14 02:20:15,374 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:20:20,286 [main] INFO CPB Stage - click Edit
+2025-01-14 02:20:20,335 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:20:23,503 [main] INFO CPB Stage - reorder mode turn on
+2025-01-14 02:20:27,079 [main] INFO CPB Stage - 2 elements were switched
+2025-01-14 02:20:36,750 [main] INFO CPB Stage - open stage site
+2025-01-14 02:20:36,769 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:20:41,662 [main] INFO CPB Stage - click Edit
+2025-01-14 02:20:41,711 [main] INFO CPB Stage - Turn ON Admin Mode
+2025-01-14 02:20:41,740 [main] INFO CPB Stage - Turn OFF Admin Mode
+2025-01-14 02:25:38,808 [main] INFO CPB Stage - open stage site
+2025-01-14 02:25:38,847 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:25:43,660 [main] INFO CPB Stage - click Edit
+2025-01-14 02:25:44,230 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:25:46,843 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:25:49,965 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:25:50,079 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:25:53,303 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:25:53,441 [main] INFO CPB Stage - product was saved
+2025-01-14 02:31:55,655 [main] INFO CPB Stage - open stage site
+2025-01-14 02:31:55,690 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:31:59,980 [main] INFO CPB Stage - click Edit
+2025-01-14 02:32:00,556 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:32:03,223 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:32:06,354 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:32:06,464 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:32:09,676 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:32:09,830 [main] INFO CPB Stage - product was saved
+2025-01-14 02:32:09,932 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:37:05,848 [main] INFO CPB Stage - open stage site
+2025-01-14 02:37:05,890 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:37:10,886 [main] INFO CPB Stage - click Edit
+2025-01-14 02:37:10,936 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:37:21,378 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:37:24,503 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:37:24,638 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:37:27,847 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:37:27,977 [main] INFO CPB Stage - product was saved
+2025-01-14 02:37:28,078 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:39:09,145 [main] INFO CPB Stage - open stage site
+2025-01-14 02:39:09,184 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:39:14,686 [main] INFO CPB Stage - click Edit
+2025-01-14 02:39:14,734 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:39:18,433 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:39:21,565 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:39:21,682 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:39:24,908 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:39:25,049 [main] INFO CPB Stage - product was saved
+2025-01-14 02:39:28,178 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:41:35,462 [main] INFO CPB Stage - open stage site
+2025-01-14 02:41:35,500 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:41:39,975 [main] INFO CPB Stage - click Edit
+2025-01-14 02:41:40,024 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:41:49,542 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:41:52,662 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:41:52,804 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:41:56,023 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:41:56,171 [main] INFO CPB Stage - product was saved
+2025-01-14 02:41:59,317 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:48:08,035 [main] INFO CPB Stage - open stage site
+2025-01-14 02:48:08,076 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:48:12,618 [main] INFO CPB Stage - click Edit
+2025-01-14 02:48:12,671 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:48:15,826 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:48:18,940 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:48:19,058 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:48:22,296 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:48:22,444 [main] INFO CPB Stage - product was saved
+2025-01-14 02:48:25,573 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:50:25,821 [main] INFO CPB Stage - open stage site
+2025-01-14 02:50:25,859 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:50:30,392 [main] INFO CPB Stage - click Edit
+2025-01-14 02:50:30,438 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:50:34,140 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:50:37,263 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:50:37,380 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:50:40,629 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:50:40,758 [main] INFO CPB Stage - product was saved
+2025-01-14 02:50:43,884 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:50:44,071 [main] INFO CPB Stage - leave button was clicked
+2025-01-14 02:52:02,575 [main] INFO CPB Stage - open stage site
+2025-01-14 02:52:02,612 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:52:07,568 [main] INFO CPB Stage - click Edit
+2025-01-14 02:52:07,616 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:52:11,275 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:52:14,406 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:52:14,516 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:52:17,741 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:52:17,885 [main] INFO CPB Stage - product was saved
+2025-01-14 02:52:21,014 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:52:21,178 [main] INFO CPB Stage - leave button was clicked
+2025-01-14 02:52:55,972 [main] INFO CPB Stage - open stage site
+2025-01-14 02:52:56,011 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:53:00,490 [main] INFO CPB Stage - click Edit
+2025-01-14 02:53:00,537 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 02:53:03,724 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 02:53:06,871 [main] INFO CPB Stage - Title was entered
+2025-01-14 02:53:06,981 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:53:10,189 [main] INFO CPB Stage - custom option was saved
+2025-01-14 02:53:10,323 [main] INFO CPB Stage - product was saved
+2025-01-14 02:53:13,449 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 02:53:13,614 [main] INFO CPB Stage - leave button was clicked
+2025-01-14 02:54:42,009 [main] INFO CPB Stage - open stage site
+2025-01-14 02:54:42,049 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:54:46,524 [main] INFO CPB Stage - click Edit
+2025-01-14 02:54:52,739 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 02:54:56,098 [main] INFO CPB Stage - password was entered
+2025-01-14 02:54:56,207 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:54:59,304 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 02:55:08,525 [main] INFO CPB Stage - Name was entered
+2025-01-14 02:55:11,587 [main] INFO CPB Stage - Text was entered
+2025-01-14 02:55:18,066 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-14 02:56:11,236 [main] INFO CPB Stage - open stage site
+2025-01-14 02:56:11,274 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:56:16,394 [main] INFO CPB Stage - particular product was cloned
+2025-01-14 02:56:22,523 [main] INFO CPB Stage - particular product was deleted
+2025-01-14 02:57:00,125 [main] INFO CPB Stage - open stage site
+2025-01-14 02:57:00,162 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:57:03,883 [main] INFO CPB Stage - particular product was cloned
+2025-01-14 02:57:10,078 [main] INFO CPB Stage - particular product was deleted
+2025-01-14 02:58:10,330 [main] INFO CPB Stage - open stage site
+2025-01-14 02:58:10,367 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:58:10,469 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 02:58:13,628 [main] INFO CPB Stage - title was created
+2025-01-14 02:58:13,675 [main] INFO CPB Stage - description was created
+2025-01-14 02:58:13,701 [main] INFO CPB Stage - price was provided
+2025-01-14 02:58:13,723 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:58:16,813 [main] INFO CPB Stage - create button was clicked
+2025-01-14 02:58:26,254 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 02:58:29,403 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 02:59:11,952 [main] INFO CPB Stage - open stage site
+2025-01-14 02:59:11,992 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 02:59:12,095 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 02:59:18,202 [main] INFO CPB Stage - Checkbox was checked
+2025-01-14 02:59:18,248 [main] INFO CPB Stage - file uploaded
+2025-01-14 02:59:24,346 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-14 02:59:24,928 [main] INFO CPB Stage - alert is checked
+2025-01-14 02:59:25,048 [main] INFO CPB Stage - title is created
+2025-01-14 02:59:25,066 [main] INFO CPB Stage - image uploaded
+2025-01-14 02:59:28,173 [main] INFO CPB Stage - create button was clicked
+2025-01-14 02:59:38,076 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 02:59:41,229 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 03:00:50,447 [main] INFO CPB Stage - open stage site
+2025-01-14 03:00:50,488 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:00:54,895 [main] INFO CPB Stage - click Edit
+2025-01-14 03:00:58,107 [main] INFO CPB Stage - Settings button was clicked
+2025-01-14 03:01:04,203 [main] INFO CPB Stage - import/export was clicked
+2025-01-14 03:01:04,272 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-14 03:01:08,461 [main] INFO CPB Stage - download button was clicked
+2025-01-14 03:01:44,759 [main] INFO CPB Stage - open stage site
+2025-01-14 03:01:44,797 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:01:49,847 [main] INFO CPB Stage - click Edit
+2025-01-14 03:02:10,922 [main] INFO CPB Stage - open stage site
+2025-01-14 03:02:10,962 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:02:15,445 [main] INFO CPB Stage - click Edit
+2025-01-14 03:02:55,610 [main] INFO CPB Stage - open stage site
+2025-01-14 03:02:55,649 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:02:59,952 [main] INFO CPB Stage - click Edit
+2025-01-14 03:03:03,116 [main] INFO CPB Stage - Settings button was clicked
+2025-01-14 03:04:19,456 [main] INFO CPB Stage - open stage site
+2025-01-14 03:04:19,498 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:04:24,111 [main] INFO CPB Stage - click Edit
+2025-01-14 03:04:27,203 [main] INFO CPB Stage - Settings button was clicked
+2025-01-14 03:04:27,801 [main] INFO CPB Stage - import/export was clicked
+2025-01-14 03:04:27,874 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-14 03:04:29,002 [main] INFO CPB Stage - download button was clicked
+2025-01-14 03:05:32,293 [main] INFO CPB Stage - open stage site
+2025-01-14 03:05:32,331 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:05:35,593 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 03:05:42,503 [main] INFO CPB Stage - password was entered
+2025-01-14 03:05:42,823 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:05:42,953 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 03:06:12,519 [main] INFO CPB Stage - open stage site
+2025-01-14 03:06:12,557 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:06:17,473 [main] INFO CPB Stage - click Edit
+2025-01-14 03:06:18,046 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 03:06:21,192 [main] INFO CPB Stage - reorder mode turn on
+2025-01-14 03:06:24,712 [main] INFO CPB Stage - 2 elements were switched
+2025-01-14 03:06:59,227 [main] INFO CPB Stage - open stage site
+2025-01-14 03:06:59,265 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:07:03,749 [main] INFO CPB Stage - click Edit
+2025-01-14 03:07:03,796 [main] INFO CPB Stage - Turn ON Admin Mode
+2025-01-14 03:07:03,817 [main] INFO CPB Stage - Turn OFF Admin Mode
+2025-01-14 03:07:32,233 [main] INFO CPB Stage - open stage site
+2025-01-14 03:07:32,268 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:07:36,003 [main] INFO CPB Stage - particular product was cloned
+2025-01-14 03:07:43,028 [main] INFO CPB Stage - particular product was deleted
+2025-01-14 03:07:48,035 [main] INFO CPB Stage - open stage site
+2025-01-14 03:07:48,056 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:07:48,154 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 03:07:54,256 [main] INFO CPB Stage - Checkbox was checked
+2025-01-14 03:07:54,288 [main] INFO CPB Stage - file uploaded
+2025-01-14 03:07:54,359 [main] INFO CPB Stage - fill data button was clicked 
+2025-01-14 03:07:54,901 [main] INFO CPB Stage - alert is checked
+2025-01-14 03:07:55,055 [main] INFO CPB Stage - title is created
+2025-01-14 03:07:55,077 [main] INFO CPB Stage - image uploaded
+2025-01-14 03:07:55,151 [main] INFO CPB Stage - create button was clicked
+2025-01-14 03:08:01,859 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 03:08:01,893 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 03:08:06,325 [main] INFO CPB Stage - open stage site
+2025-01-14 03:08:06,347 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:08:10,738 [main] INFO CPB Stage - click Edit
+2025-01-14 03:08:10,783 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 03:08:13,904 [main] INFO CPB Stage - click on New Custom Option
+2025-01-14 03:08:14,518 [main] INFO CPB Stage - Title was entered
+2025-01-14 03:08:14,633 [main] INFO CPB Stage - image uploaded
+2025-01-14 03:08:14,801 [main] INFO CPB Stage - custom option was saved
+2025-01-14 03:08:14,936 [main] INFO CPB Stage - product was saved
+2025-01-14 03:08:15,341 [main] INFO CPB Stage - back to list button was clicked
+2025-01-14 03:08:15,407 [main] INFO CPB Stage - leave button was clicked
+2025-01-14 03:08:20,084 [main] INFO CPB Stage - open stage site
+2025-01-14 03:08:20,105 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:08:24,529 [main] INFO CPB Stage - click Edit
+2025-01-14 03:08:30,745 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 03:08:34,867 [main] INFO CPB Stage - password was entered
+2025-01-14 03:08:34,958 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:08:38,073 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 03:08:47,194 [main] INFO CPB Stage - Name was entered
+2025-01-14 03:08:50,346 [main] INFO CPB Stage - Text was entered
+2025-01-14 03:08:57,304 [main] INFO CPB Stage - add to cart button was clicked
+2025-01-14 03:09:05,134 [main] INFO CPB Stage - open stage site
+2025-01-14 03:09:05,155 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:09:05,246 [main] INFO CPB Stage - Create new button was clicked
+2025-01-14 03:09:08,399 [main] INFO CPB Stage - title was created
+2025-01-14 03:09:08,446 [main] INFO CPB Stage - description was created
+2025-01-14 03:09:08,471 [main] INFO CPB Stage - price was provided
+2025-01-14 03:09:08,491 [main] INFO CPB Stage - image uploaded
+2025-01-14 03:09:08,560 [main] INFO CPB Stage - create button was clicked
+2025-01-14 03:09:15,160 [main] INFO CPB Stage - Back to list button was clicked
+2025-01-14 03:09:15,189 [main] INFO CPB Stage - Leave button eas clicked
+2025-01-14 03:09:19,860 [main] INFO CPB Stage - open stage site
+2025-01-14 03:09:19,881 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:09:24,573 [main] INFO CPB Stage - click Edit
+2025-01-14 03:09:27,772 [main] INFO CPB Stage - Settings button was clicked
+2025-01-14 03:09:28,503 [main] INFO CPB Stage - import/export was clicked
+2025-01-14 03:09:28,571 [main] INFO CPB Stage - radio export button was clicked 
+2025-01-14 03:09:29,720 [main] INFO CPB Stage - download button was clicked
+2025-01-14 03:09:34,372 [main] INFO CPB Stage - open stage site
+2025-01-14 03:09:34,394 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:09:37,683 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 03:09:42,311 [main] INFO CPB Stage - password was entered
+2025-01-14 03:09:42,388 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:09:42,459 [main] INFO CPB Stage - clicked On preview button
+2025-01-14 03:09:47,357 [main] INFO CPB Stage - open stage site
+2025-01-14 03:09:47,379 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:09:51,796 [main] INFO CPB Stage - click Edit
+2025-01-14 03:09:51,839 [main] INFO CPB Stage - click Admin Mode
+2025-01-14 03:09:56,694 [main] INFO CPB Stage - reorder mode turn on
+2025-01-14 03:09:57,139 [main] INFO CPB Stage - 2 elements were switched
+2025-01-14 03:10:01,817 [main] INFO CPB Stage - open stage site
+2025-01-14 03:10:01,839 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:10:06,793 [main] INFO CPB Stage - click Edit
+2025-01-14 03:10:06,845 [main] INFO CPB Stage - Turn ON Admin Mode
+2025-01-14 03:10:06,863 [main] INFO CPB Stage - Turn OFF Admin Mode
+2025-01-14 03:12:14,735 [main] INFO CPB Stage - open stage site
+2025-01-14 03:12:14,777 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:12:19,275 [main] INFO CPB Stage - click Edit
+2025-01-14 03:12:25,587 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 03:12:29,181 [main] INFO CPB Stage - password was entered
+2025-01-14 03:12:29,270 [main] INFO CPB Stage - switch to iFrame
+2025-01-14 03:12:32,370 [main] INFO CPB Stage - Preview button was clicked
+2025-01-14 03:12:41,496 [main] INFO CPB Stage - Name was entered
+2025-01-14 03:12:44,657 [main] INFO CPB Stage - Text was entered
+2025-01-14 03:12:51,309 [main] INFO CPB Stage - add to cart button was clicked

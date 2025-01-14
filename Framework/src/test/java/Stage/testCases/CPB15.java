@@ -21,7 +21,9 @@ public class CPB15 extends BaseClass{
         logger.info("click Admin Mode");
        ad.clickOnAddNewCustomOption();
         logger.info("click on New Custom Option");
-        logger.info("adding changes testing");
+
+        Thread.sleep(3000);
+
         if(driver.getPageSource().contains("Edit Custom Option"))
         {
             Assert.assertTrue(true);

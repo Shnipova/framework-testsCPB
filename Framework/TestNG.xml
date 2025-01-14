@@ -7,8 +7,15 @@
     <test name="CPBStage Testing">
         <parameter name="browser" value="chrome" />
         <classes>
-            <class name="Stage.testCases.CPB15"/>
             <class name="Stage.testCases.CloningProducts49"/>
+            <class name="Stage.testCases.CreatingProductJSON50"/>
+            <class name="Stage.testCases.AddNewCustomOption54"/>
+            <class name="Stage.testCases.AddToCartPreviewMode53"/>
+            <class name="Stage.testCases.CreateNewProduct5"/>
+            <class name="Stage.testCases.ExportProduct51"/>
+            <class name="Stage.testCases.OpenProductInPreview52"/>
+            <class name="Stage.testCases.ReorderModeProductPage"/>
+            <class name="Stage.testCases.TurnOnOffAdminMode"/>
         </classes>
     </test>
 </suite>
