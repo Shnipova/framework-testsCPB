@@ -39,6 +39,20 @@ public class ReadConfig {
         return safaridriverpath;
     }
 
+    public String getJsonFilePath(){
+        String jsonFilePath = properties.getProperty("JSONFilePAth");
+        return jsonFilePath;
+    }
+
+    public String getImageFilePath(){
+        String imageFilePath = properties.getProperty("imageFilePath");
+        return imageFilePath;
+    }
+    public String getImageFoxFilePath(){
+        String imageFoxFilePath = properties.getProperty("imageFoxFilePath");
+        return imageFoxFilePath;
+    }
+
 }
 
 

@@ -29,7 +29,7 @@ public class BaseClass {
 
     @Parameters("browser")
     @BeforeClass
-    public void setUp(@Optional ("safari") String br)
+    public void setUp(@Optional ("chrome") String br)
     {
         logger = Logger.getLogger("CPB Stage");
         PropertyConfigurator.configure("log4j.properties");

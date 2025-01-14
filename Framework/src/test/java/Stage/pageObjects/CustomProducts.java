@@ -16,7 +16,7 @@ public class CustomProducts {
     public CustomProducts(WebDriver driver) {
         //`driver` you pass when you create an instance of `CustomProducts` is saved and used later for methods like `switchToIFrame()`.
         this.driver = driver;
-        this.wait = new WebDriverWait(driver,45);
+        this.wait = new WebDriverWait(driver,120);
         PageFactory.initElements(driver, this);
     }
 
@@ -33,16 +33,24 @@ public class CustomProducts {
     WebElement adminMode;
 
 
-    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div/div/ul/li[14]/div/div[2]/div[3]/div")
+    @FindBy(xpath = "//*[@id=\"product-builder\"]/div/div/div/div[2]/div/div/ul/li[3]/div/div[2]/div[3]")
     @CacheLookup
     WebElement cloneProduct;
 
-    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div/div/ul/li[15]/div/div[2]/div[4]/div")
+    @FindBy(xpath = "//*[@id=\"product-builder\"]/div/div/div/div[2]/div/div/ul/li[3]/div/div[2]/div[4]")
     @CacheLookup
     WebElement deleteProduct;
 
     @FindBy(xpath = "/html/body/div[4]/div/div[6]/button[1]")
     WebElement yesButtonConformationDelete;
+
+    @FindBy(xpath = "//*[@id=\"product-builder\"]/div/div/div/div[2]/h2/div/button")
+    @CacheLookup
+    WebElement createNewButton;
+
+    @FindBy(xpath = "//*[@id=\"product-builder\"]/div/div/div/div[2]/div/div/ul/li[4]/div/div[2]/div[1]/a")
+    @CacheLookup
+    WebElement previewButton;
 
 
     public void switchToIFrame() {
@@ -72,6 +80,16 @@ public class CustomProducts {
         wait.until(ExpectedConditions.elementToBeClickable(yesButtonConformationDelete));
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].click();", yesButtonConformationDelete);
+    }
+
+    public void clickCreateNew(){
+        wait.until(ExpectedConditions.elementToBeClickable(createNewButton));
+        createNewButton.click();
+    }
+
+    public void clickOnPreviewButtonAtProductList(){
+        wait.until(ExpectedConditions.elementToBeClickable(previewButton));
+        previewButton.click();
     }
 
 

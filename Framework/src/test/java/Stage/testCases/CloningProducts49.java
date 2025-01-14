@@ -15,13 +15,14 @@ public class CloningProducts49 extends BaseClass{
         logger.info("switch to iFrame");
 
         cp.clickCloneButton();
-        logger.info("click Clone");
-        Thread.sleep(3000);
+        logger.info("particular product was cloned");
+
+
         cp.clickDeleteButton();
-        logger.info("click Delete");
-        Thread.sleep(3000);
-        cp.clickYesConformationForDelete();
-        logger.info("yes clicked");
+        logger.info("particular product was deleted");
+         cp.clickYesConformationForDelete();
+
+
 
         Thread.sleep(300);
 
